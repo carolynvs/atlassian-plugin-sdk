@@ -1,2 +1,2 @@
 #!/bin/sh
-cmd.exe "/C atlas-create-home-zip.bat"
+cmd.exe //C atlas-create-home-zip.bat "$@"

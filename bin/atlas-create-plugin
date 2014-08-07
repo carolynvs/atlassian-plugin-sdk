@@ -1,3 +1,2 @@
 #!/bin/sh
-cmd.exe "/C atlas-create-plugin.bat"
-
+cmd.exe //C atlas-create-plugin.bat "$@"

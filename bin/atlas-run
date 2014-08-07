@@ -1,2 +1,2 @@
 #!/bin/sh
-cmd.exe "/C atlas-run.bat"
+cmd.exe //C atlas-run.bat "$@"
